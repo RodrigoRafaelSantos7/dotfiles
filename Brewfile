@@ -7,7 +7,7 @@ cask "the-unarchiver" # decompress RAR files etc
 
 
 # design & development
-cask "visual-studio-code" # IDE
+cask "cursor" # IDE
 cask "hyper" # terminal (iterm is probably better, i’ve just used this one for a while)
 brew "spaceship" # tidy zsh prompt
 brew "node" # secret

@@ -1,5 +1,5 @@
 # productivity
-cask "alfred" # workflows and shortcuts; supercharged OSX spotlight
+cask "raycast" # workflows and shortcuts; supercharged OSX spotlight
 cask "nordvpn" # don’t surf without one baby
 cask "obsidian" # notetaking and mind-mapping
 cask "rectangle" # window management, spiritual successor to Spectacle
@@ -17,7 +17,7 @@ cask "font-inconsolata-nerd-font" # install the ligature’d version of Inconsol
 cask "figma" # rectangles
 
 # browsers
-cask "firefox" # goat
+cask "vivaldi" # goat
 
 # aux and periphery
 cask "discord"

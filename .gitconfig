@@ -1,0 +1,7 @@
+[user]
+	name = Rodrigo Santos
+	email = hello@rodrigosantos.dev
+[core]
+	editor = cursor --wait
+[init]
+	defaultBranch = main

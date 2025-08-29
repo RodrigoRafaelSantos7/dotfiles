@@ -2,6 +2,6 @@
 	name = RodrigoRafaelSantos7
 	email = hello@rodrigosantos.dev
 [core]
-	editor = cursor --wait
+	editor = zed --wait
 [init]
 	defaultBranch = main
